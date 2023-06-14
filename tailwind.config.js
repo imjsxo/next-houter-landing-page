@@ -11,7 +11,8 @@ module.exports = {
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
       maxWidth: {
-        1200: '1200px'
+        1200: '1200px',
+        '56': '56px'
       },
       width: {
         1200: '1200px',
@@ -19,19 +20,22 @@ module.exports = {
         600:'600px'
       },
       color: {
-        'bgSignUp': '#D1FAE5',
+        'lightGreen': '#D1FAE5',
         'fontSignUp': '#047857',
         '626687': '#626687',
         'E0E3EB': '#E0E3EB',
         'F59E0B': '#F59E0B',
         'buttonGreen':'#10B981',
-        '888B97':'#888B97'
+        '888B97':'#888B97',
+        '3C4563':'#3C4563',
+        '1B1C57' :'#1B1C57'
       },
       spacing: {
         'bannerHeight': '720px'
       },
       fontSize: {
-        '40': '40px'
+        '40': '40px',
+        '32': '32px'
       },
       lineHeight: {
         '50': '50px'
