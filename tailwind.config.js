@@ -24,14 +24,16 @@ module.exports = {
         'fontSignUp': '#047857',
         '626687': '#626687',
         'E0E3EB': '#E0E3EB',
-        'F59E0B': '#F59E0B',
+        'yellow': '#F59E0B',
         'buttonGreen':'#10B981',
         '888B97':'#888B97',
         '3C4563':'#3C4563',
         '1B1C57' :'#1B1C57'
       },
       spacing: {
-        'bannerHeight': '720px'
+        'bannerHeight': '720px',
+        '65': '65%',
+        '312': '312px'
       },
       fontSize: {
         '40': '40px',
