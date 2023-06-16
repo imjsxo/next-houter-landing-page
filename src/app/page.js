@@ -74,7 +74,7 @@ export default function Home() {
         </div>
       </section >
 
-      <section className='w-[1200px] ml-auto mr-auto flex flex-row mr-auto ml-auto justify-space-between'>
+      <section className='w-[1200px] flex flex-row mr-auto ml-auto justify-space-between'>
         <div>
           <p className='text-base font-light text-[#F59E0B] mb-3'>Ready to Sell!</p>
           <h3 className='text-[32px] mr-32 mt-3 mb-4'>Let’s tour and see our house!</h3>
